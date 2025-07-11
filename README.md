@@ -3,7 +3,7 @@
 ## ✨ Overview  
 This Excel workbook demonstrates a wide range of **formulas and functions** using real-world datasets of **students, sales, and employees**. Each question is practically solved with **live formulas and answers**.
 
-> 🔵 **All answers/formulas are marked in blue** for quick identification.
+>  **All answers/formulas are marked** for quick identification.
 
 ---
 
