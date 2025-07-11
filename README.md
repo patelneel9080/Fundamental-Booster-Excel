@@ -51,6 +51,6 @@ This Excel workbook demonstrates a wide range of **formulas and functions** usin
 
 ## 🎨 Formatting Notes
 
-- 🔵 **Blue-colored cells** contain final answers or formulas  
+- **Colored cells** contain final answers or formulas  
 - Yellow-colored input cells are provided where needed  
 - Structured layout with merged headers and clean formatting
